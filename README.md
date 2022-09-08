@@ -39,5 +39,5 @@ Azure Static Web Apps Service, Azure Resource Manager.
 # photos  📸 #
 ### ***Home page -*** ###
 
-![image]()
+![image](https://raw.githubusercontent.com/Premsagar6/tourisam/main/assets/images/banner2.jpg)
 
